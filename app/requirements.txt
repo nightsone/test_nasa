@@ -1,0 +1,7 @@
+requests==2.7.0
+json==3.6
+pandas==1.5.3
+datetime==5.0
+os
+psycopg2==2.9
+sqlalchemy==2.0
